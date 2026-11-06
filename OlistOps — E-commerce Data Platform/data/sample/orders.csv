@@ -1,0 +1,7 @@
+order_id,customer_id,order_status,purchase_date,estimated_delivery,actual_delivery
+o1001,c001,delivered,2026-10-01,2026-10-05,2026-10-04
+o1002,c002,delivered,2026-10-02,2026-10-06,2026-10-08
+o1003,c003,shipped,2026-10-03,2026-10-09,
+o1004,c004,canceled,2026-10-03,2026-10-11,
+o1005,c005,delivered,2026-10-04,2026-10-10,2026-10-10
+o1006,c006,delivered,2026-10-05,2026-10-12,2026-10-15
